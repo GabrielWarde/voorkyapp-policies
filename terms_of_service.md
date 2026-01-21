@@ -9,7 +9,7 @@ By accessing or using Voorky ("the Service"), you agree to be bound by these Ter
 
 **Service Provider:**  
 Individual Developer  
-Email: voorkygaming@gmail.com  
+Email: contactvoorky@gmail.com  
 Location: France, European Union
 
 **Service Type:** Free messaging application (non-commercial)
@@ -134,7 +134,7 @@ You agree to indemnify and hold us harmless from claims arising from:
 ## 12. REPORTING VIOLATIONS
 
 **Report illegal content or behavior:**
-- Email: voorkygaming@gmail.com
+- Email: contactvoorky@gmail.com
 - We will investigate within 72 hours
 - We comply with French hosting provider obligations (LCEN Law)
 
@@ -177,7 +177,7 @@ We comply with:
 
 For questions about these Terms:
 
-**Email**: voorkygaming@gmail.com  
+**Email**: contactvoorky@gmail.com  
 **Response Time**: Within 7 business days
 
 ## 17. SEVERABILITY

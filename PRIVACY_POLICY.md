@@ -9,7 +9,7 @@ Voorky ("we", "our", "us") is committed to protecting your privacy and personal 
 
 **Data Controller:**  
 Individual Developer  
-Email: voorkygaming@gmail.com  
+Email: contactvoorky@gmail.com  
 Location: France, European Union
 
 **Developer:** Recent graduate in Data Science, operating as an individual.
@@ -99,7 +99,7 @@ Contact CNIL (Commission Nationale de l'Informatique et des Libertés):
 - Address: 3 Place de Fontenoy, TSA 80715, 75334 Paris Cedex 07, France
 - Phone: +33 1 53 73 22 22
 
-**To exercise your rights, email:** voorkygaming@gmail.com  
+**To exercise your rights, email:** contactvoorky@gmail.com  
 **Response time:** Within 30 days as required by GDPR
 
 ## 7. DATA SECURITY
@@ -132,7 +132,7 @@ We use minimal cookies:
 - Our service is NOT intended for children under 13
 - We do not knowingly collect data from children under 13
 - If we discover such data, we delete it immediately
-- Parents can contact us at: voorkygaming@gmail.com
+- Parents can contact us at: contactvoorky@gmail.com
 
 ## 11. CHANGES TO THIS POLICY
 
@@ -145,7 +145,7 @@ We may update this policy. Changes will be:
 
 For privacy questions or to exercise your rights:
 
-**Email**: voorkygaming@gmail.com  
+**Email**: contactvoorky@gmail.com  
 **Response Time**: Within 30 days as required by GDPR
 
 ## 13. DATA PROTECTION OFFICER (DPO)
